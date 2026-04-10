@@ -14,6 +14,8 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 
 **MATRIZ DE PAPÉIS**: Líder e Dev: Mabi; QA: Sarah; CM: Mariana e Myllena. 
 
+---
+
 **PLANO DE RISCOS**: 
 
 -**"Ausência de um integrante"**: Um membro do grupo pode faltar em dia de desenvolvimento do projeto ou apresentação. Plano de mitigação seria todos saberem e entenderem do projeto, compartilhar os códigos e anotações e sempre estudarem e compartilhar suas ideias e partes do trabalho, para caso isso aconteça, os outros integrantes saberem o que fazer. 
@@ -22,7 +24,7 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 
 -**"Falta de organização da equipe"**: O grupo pode se perder durante o processo, sem saber o que fazer e como lidar com aquele problema. A ideia de mitigação seria organizar os papéis entre todos os integrantes, usar KanBan para agilizar o processo e sempre acompanhar o progresso do projeto. 
 
-
+---
 
 | Critério | Descrição | Peso |
 |----------|-----------|------|
@@ -30,3 +32,10 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 | Rastreabilidade | O Plano de Projeto está diretamente ligado ao desenvolvimento do kanban. | 30% |
 | Viabilidade Técnica | Sim, finalizamos a maior parte do projeto em uma semana.  | 20% |
 | Gestão de Riscos | Sim! Fizemos o documento de gestão de riscos para nos previnir de imprevistos. | 30% |
+
+---
+
+Kanban 
+
+<img width="847" height="701" alt="image" src="https://github.com/user-attachments/assets/61f3ee1b-17a9-47f3-a9d2-af6e0f802c60" />
+
