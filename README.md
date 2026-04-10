@@ -44,11 +44,20 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 **INTERFACE QUE DESENVOLVEMOS**
 
 
-<img width="1638" height="849" alt="image" src="https://github.com/user-attachments/assets/ec10e82b-8724-4e25-b0dd-f4c98ff0625e" />
-<img width="1643" height="862" alt="image" src="https://github.com/user-attachments/assets/42201d95-7398-42b1-8ade-5e1966142c82" />
+<img width="1638" height="849" alt="image" src="https://github.com/user-attachments/assets/ec10e82b-8724-4e25-b0dd-f4c98ff0625e" /> <img width="1643" height="862" alt="image" src="https://github.com/user-attachments/assets/42201d95-7398-42b1-8ade-5e1966142c82" />
+
 
 >USAMOS O SITE LOVABLE PARA DESENVOLVER.
+---
 
+**MANUAL DE USO**
+>**Como executar nosso código/interface?**
+A nossa interface foi feita para ser precisa e prática ao uso;
+>CIFRA DE CÉSAR & BASE64
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/6615a999-e092-4ad0-99c8-45014ebbde94" />
+
+Basta escrever a palavra que deseja e ela será criptografada ou descriptografada. 
+---
 
 
 
