@@ -36,6 +36,19 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 ---
 
 **Kanban**
+>Feito para agilizar o processo:
 
 <img width="847" height="701" alt="image" src="https://github.com/user-attachments/assets/61f3ee1b-17a9-47f3-a9d2-af6e0f802c60" />
+
+---
+**INTERFACE QUE DESENVOLVEMOS**
+
+
+<img width="1638" height="849" alt="image" src="https://github.com/user-attachments/assets/ec10e82b-8724-4e25-b0dd-f4c98ff0625e" />
+<img width="1643" height="862" alt="image" src="https://github.com/user-attachments/assets/42201d95-7398-42b1-8ade-5e1966142c82" />
+
+>USAMOS O SITE LOVABLE PARA DESENVOLVER.
+
+
+
 
