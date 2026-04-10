@@ -35,7 +35,7 @@ Estimativas: Considerando um ciclo de deselvolvimento ágil, as horas foram divi
 
 ---
 
-Kanban 
+**Kanban**
 
 <img width="847" height="701" alt="image" src="https://github.com/user-attachments/assets/61f3ee1b-17a9-47f3-a9d2-af6e0f802c60" />
 
