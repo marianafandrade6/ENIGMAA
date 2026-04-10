@@ -61,3 +61,7 @@ Basta escrever a palavra que deseja e ela será criptografada ou descriptografad
 
 
 
+**FLUXOGRAMA** 
+
+<img width="950" height="666" alt="image" src="https://github.com/user-attachments/assets/59811bf1-704b-4a20-a3d0-567ccdb3cf40" />
+
